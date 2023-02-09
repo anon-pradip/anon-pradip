@@ -1,4 +1,4 @@
-<h1 align="center">Namaste🙏. I am Pradip Subedi</h1>
+<h1 align="center">Namaste🙏, I am Pradip Subedi</h1>
 <h3 align="center">I am an enthusiastic full-stack web developer plus a team player who approaches challenges with creative solutions.</h3>
 
 - 🔭 I’m currently working on **next.js projects**
