@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏, I am Pradip Subedi </h1>
-<h2 align="center">My Pofo: <a href="https://anon-pradip-pofo.vercel.app/" target="_blank" align="center">https://anon-pradip-pofo.vercel.app/</a> </h2>
+<!-- <h2 align="center">My Pofo: <a href="https://anon-pradip-pofo.vercel.app/" target="_blank" align="center">https://anon-pradip-pofo.vercel.app/</a> </h2> -->
 
 - 🔭 I’m currently working on **next.js projects**
 
